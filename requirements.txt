@@ -1,0 +1,5 @@
+rasterio==1.2.10
+numpy==1.21.0
+geopandas==0.10.2
+tqdm==4.64.0
+GDAL==3.4.2
